@@ -1,6 +1,8 @@
 # ELSYSGK-17
 Dette er koden til lys boksen.
 
+Den mest relevante kode filene er trukket ut, men vist man vil finne ein fullstendig kopi av alt som er på raspberry pien så finner man det i [e.zip](https://github.com/2003mi/ELSYSGK-17/blob/main/e.zip)
+
 ## Setup 
 1. Set opp ein normal raspberry pi og ssh deg inn på han.
 1. sørg for python3 er installert.
