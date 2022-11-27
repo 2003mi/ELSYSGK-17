@@ -284,3 +284,4 @@ def chASS(strip,wait_ms=50, c1=[-1,Color(255,0,0),[1,2,3]],c2=[1,Color(0,0,255),
         setPIXELarr(strip, c1[2], c1[1])
         setPIXELarr(strip, c2[2], c2[1])
         show(strip)
+        time.sleep(wait_ms / 1000.0)
